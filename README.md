@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+this is bouthaina!
+
+🌱 I’m currently learning how to design a good quality software that puts the user at the center of it.
+
+🔭 I’m currently working on a project called Typhoon, a serious game that implements the principle of ludic learning.
+
+🎯 My Goal is to always learn new things, and I'm currently interested in Web 3 technologies.
+
+⚡ Fun fact: Currently looking for a summer internship!
+
+
+
