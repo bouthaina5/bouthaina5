@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-this is bouthaina!
+this is bouthaina😄!
 
 🌱 I’m currently learning how to design a good quality software that puts the user at the center of it.
 
