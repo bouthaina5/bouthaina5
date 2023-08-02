@@ -20,9 +20,8 @@ this is bouthaina😄!
 
 🔭 I’m currently working on a project called Typhoon, a serious game that implements the principle of ludic learning.
 
-🎯 My Goal is to always learn new things, and I'm currently interested in Web 3 technologies.
+🎯 My Goal is to always learn new things. I'm currently interested in Web 3 technologies!
 
-⚡ Fun fact: Currently looking for a summer internship!
 
 
 
