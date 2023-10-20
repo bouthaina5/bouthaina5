@@ -52,7 +52,7 @@ this is bouthaina😄!
 I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia 🇹🇳.
 - :telescope: I’m currently in my third year studying computer science at the National School of Computer Science.
 
-- :seedling: Currently Learning Spring Boot and Angular.
+- :seedling: Currently developing the backend of the application komita in spring Boot, postgreSQL and neo4j.
 
 - 🔭 I love to explore and learn new things every day.
 
